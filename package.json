@@ -1,0 +1,17 @@
+{
+  "name": "fcc-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "Halil Ibrahim Sener <hisener@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
