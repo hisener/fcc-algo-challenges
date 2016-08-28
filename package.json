@@ -9,6 +9,10 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisener/fcc-algo-challenges.git"
+  },
   "author": "Halil Ibrahim Sener <hisener@yahoo.com>",
   "license": "MIT",
   "devDependencies": {

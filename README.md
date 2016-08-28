@@ -35,7 +35,7 @@ npm test test/validate-us-telephone-numbers
 npm test test/validate-us-telephone-numbers -- --watch
 ```
 
-##### Specifying the reporter:
+##### Specifying the reporter (for example 'nyan'):
 
 ```bash
 npm test test/validate-us-telephone-numbers -- --reporter nyan
