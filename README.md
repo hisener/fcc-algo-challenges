@@ -4,9 +4,12 @@ freeCodeCamp Algorithm Challenges in one package with test cases.
 *Note:* This repo contains only advanced algorithm scripting section.
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![Code Climate](https://codeclimate.com/github/hisener/fcc-algo-challenges/badges/gpa.svg)](https://codeclimate.com/github/hisener/fcc-algo-challenges)
 
 ### Why?
-Just don't want to use freeCodeCamp's code editor.
+- Just don't want to use freeCodeCamp's code editor.
+- Offline usage.
+- Manageable test cases.
 
 ### Install
 Clone this repository.
